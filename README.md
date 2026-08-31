@@ -17,6 +17,16 @@ I build practical software and technical tools for real data, file and workflow 
 
 Web and full-stack applications · Python automation · APIs · file indexing and comparison tools · verification and reporting systems · media-data workflow software · internal operational tools · mobile utilities · legacy codebase modernisation
 
+## Selected Engineering Work
+
+| Project | Engineering evidence | Live |
+| --- | --- | --- |
+| **[MediaShelf](https://github.com/Humerous/mediashelf)** | Next.js, TypeScript, Apple API integration, controlled global search, persistence and production QA | [Open app](https://mediashelf-chameleon.vercel.app) |
+| **[Clearlist](https://github.com/Humerous/mern_todo_list_app)** | Full-stack MERN, authentication, user-owned data isolation, automated testing and accessibility | [Open app](https://clearlist-chameleon.vercel.app) |
+| **[David Miller’s Garage](https://github.com/Humerous/david-millers-garage)** | MERN CRUD restoration, API verification, automated CI and production deployment | [Open app](https://david-millers-garage.vercel.app) |
+
+More selected work is pinned below.
+
 ## How I Work
 
 **Diagnose → Design → Build → Test → Deploy → Measure → Improve**
@@ -29,7 +39,3 @@ The stack serves the requirement — not the other way around.
 **LinkedIn:** https://www.linkedin.com/in/david-miller-07376015/  
 **X:** @DavidMillerster  
 **Cape Town, South Africa**
-
----
-
-**Selected work is pinned below.**
