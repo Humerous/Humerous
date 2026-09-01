@@ -38,9 +38,9 @@ The stack serves the requirement — not the other way around.
 🌐 **[Video Image Technologies](https://videoimagetechnologies.co.za)**  
 
 <p>
-<a href="https://www.instagram.com/videoimagetechnologies"><img src="assets/instagram-icon.svg" width="32" height="32" alt="Instagram" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/david-miller-07376015/"><img src="assets/linkedin-icon.png" width="32" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="https://x.com/DavidMillerster"><img src="assets/x-icon-white.svg" width="32" height="32" alt="X" /></a>
+<a href="https://www.instagram.com/videoimagetechnologies"><img src="assets/instagram-icon.svg" width="72" height="72" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/david-miller-07376015/"><img src="assets/linkedin-icon.png" width="72" height="72" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/DavidMillerster"><img src="assets/x-icon-white.svg" width="72" height="72" alt="X" /></a>
 </p>
 
 📍 Cape Town, South Africa
