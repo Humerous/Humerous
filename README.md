@@ -22,8 +22,8 @@ Web and full-stack applications · Python automation · APIs · file indexing an
 | Project | Engineering evidence | Live |
 | --- | --- | --- |
 | **[MediaShelf](https://github.com/Humerous/mediashelf)** | Next.js, TypeScript, Apple API integration, controlled global search, persistence and production QA | [Open app](https://mediashelf-chameleon.vercel.app) |
-| **[Clearlist](https://github.com/Humerous/mern_todo_list_app)** | Full-stack MERN, authentication, user-owned data isolation, automated testing and accessibility | [Open app](https://clearlist-chameleon.vercel.app) |
-| **[Hit or Miss](https://github.com/Humerous/react-hit-and-miss-app)** | React interaction design, accessibility, automated testing, CI and production deployment | [Open app](https://react-hit-and-miss-app.vercel.app) |
+| **[Clearlist](https://github.com/Humerous/clearlist)** | Full-stack MERN, authentication, user-owned data isolation, automated testing and accessibility | [Open app](https://clearlist-chameleon.vercel.app) |
+| **[Hit or Miss](https://github.com/Humerous/hit-or-miss)** | React interaction design, accessibility, automated testing, CI and production deployment | [Open app](https://react-hit-and-miss-app.vercel.app) |
 
 More selected work is pinned below.
 
