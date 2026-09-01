@@ -39,7 +39,7 @@ The stack serves the requirement — not the other way around.
 
 <p>
 <a href="https://www.instagram.com/videoimagetechnologies"><img src="assets/instagram-icon.svg" width="32" height="32" alt="Instagram" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/david-miller-07376015/"><img src="assets/linkedin-icon.svg" width="32" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/david-miller-07376015/"><img src="assets/linkedin-icon.png" width="32" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="https://x.com/DavidMillerster"><img src="assets/x-icon-white.svg" width="32" height="32" alt="X" /></a>
 </p>
 
