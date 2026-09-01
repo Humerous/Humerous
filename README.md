@@ -36,6 +36,7 @@ The stack serves the requirement — not the other way around.
 ## Links
 
 **Video Image Technologies:** https://videoimagetechnologies.co.za  
+**Instagram:** https://www.instagram.com/videoimagetechnologies  
 **LinkedIn:** https://www.linkedin.com/in/david-miller-07376015/  
 **X:** @DavidMillerster  
 **Cape Town, South Africa**
