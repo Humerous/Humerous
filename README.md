@@ -38,7 +38,7 @@ The stack serves the requirement — not the other way around.
 🌐 **[Video Image Technologies](https://videoimagetechnologies.co.za)**  
 
 <p>
-<a href="https://www.instagram.com/videoimagetechnologies"><img src="assets/instagram-icon.svg" width="64" height="64" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/videoimagetechnologies"><img src="assets/instagram-icon-final.svg" width="64" height="64" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/david-miller-07376015/"><img src="assets/linkedin-icon.png" width="64" height="64" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/DavidMillerster"><img src="assets/x-icon-white.svg" width="64" height="64" alt="X" /></a>
 </p>
