@@ -37,7 +37,7 @@ The stack serves the requirement — not the other way around.
 
 🌐 **[Video Image Technologies](https://videoimagetechnologies.co.za)**  
 
-[![Instagram](https://img.shields.io/badge/Instagram-f53268?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/videoimagetechnologies)
+<a href="https://www.instagram.com/videoimagetechnologies"><img src="assets/instagram-icon.svg" width="32" height="32" alt="Instagram" /></a>
 <a href="https://www.linkedin.com/in/david-miller-07376015/"><img src="assets/linkedin-icon.svg" width="32" height="32" alt="LinkedIn" /></a>
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/DavidMillerster)
 
