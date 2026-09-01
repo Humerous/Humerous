@@ -37,8 +37,10 @@ The stack serves the requirement — not the other way around.
 
 🌐 **[Video Image Technologies](https://videoimagetechnologies.co.za)**  
 
-<a href="https://www.instagram.com/videoimagetechnologies"><img src="assets/instagram-icon.svg" width="32" height="32" alt="Instagram" /></a>
-<a href="https://www.linkedin.com/in/david-miller-07376015/"><img src="assets/linkedin-icon.svg" width="32" height="32" alt="LinkedIn" /></a>
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/DavidMillerster)
+<p>
+<a href="https://www.instagram.com/videoimagetechnologies"><img src="assets/instagram-icon.svg" width="32" height="32" alt="Instagram" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/david-miller-07376015/"><img src="assets/linkedin-icon.svg" width="32" height="32" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://x.com/DavidMillerster"><img src="assets/x-icon.svg" width="32" height="32" alt="X" /></a>
+</p>
 
 📍 Cape Town, South Africa
